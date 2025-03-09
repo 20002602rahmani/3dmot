@@ -30,7 +30,7 @@
 
 ## Installation
 
-- install python3.6
+- install python3.6 (https://www.youtube.com/watch?v=3lGhtIqT0Tk)
 - enter project folder
 - pip install venv
 - python -m venv env
