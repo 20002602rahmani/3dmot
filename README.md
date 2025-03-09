@@ -1,6 +1,5 @@
 # AB3DMOT
 
-pip install --trusted-host pypi.org --trusted-host pypi.python.org --trusted-host files.pythonhosted.org --upgrade certifi
 
 ## Overview
 
@@ -31,7 +30,13 @@ pip install --trusted-host pypi.org --trusted-host pypi.python.org --trusted-hos
 
 ## Installation
 
-Please follow carefully our provided [installation instructions](docs/INSTALL.md), to avoid errors when running the code.
+- install python3.6
+- enter project folder
+- pip install venv
+- python -m venv env
+- env\scripts\activate
+- pip install --trusted-host pypi.org --trusted-host pypi.python.org --trusted-host files.pythonhosted.org --upgrade certifi
+- pip install -r requirements.txt
 
 ## Quick Demo on KITTI
 
