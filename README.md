@@ -1,28 +1,6 @@
 # AB3DMOT
 
-<b>3D Multi-Object Tracking: A Baseline and New Evaluation Metrics (IROS 2020, ECCVW 2020)</b>
-
-This repository contains the official python implementation for our full paper at IROS 2020 "[3D Multi-Object Tracking: A Baseline and New Evaluation Metrics](http://www.xinshuoweng.com/papers/AB3DMOT/proceeding.pdf)" and short paper "[AB3DMOT: A Baseline for 3D Multi-Object Tracking and New Evaluation Metrics](http://www.xinshuoweng.com/papers/AB3DMOT_eccvw/camera_ready.pdf)" at ECCVW 2020. Our project website and video demos are [here](http://www.xinshuoweng.com/projects/AB3DMOT/). If you find our paper or code useful, please cite our papers:
-
-```
-@article{Weng2020_AB3DMOT, 
-author = {Weng, Xinshuo and Wang, Jianren and Held, David and Kitani, Kris}, 
-journal = {IROS}, 
-title = {{3D Multi-Object Tracking: A Baseline and New Evaluation Metrics}}, 
-year = {2020} 
-}
-```
-```
-@article{Weng2020_AB3DMOT_eccvw, 
-author = {Weng, Xinshuo and Wang, Jianren and Held, David and Kitani, Kris}, 
-journal = {ECCVW}, 
-title = {{AB3DMOT: A Baseline for 3D Multi-Object Tracking and New Evaluation Metrics}}, 
-year = {2020} 
-}
-```
-
-<img align="center" width="100%" src="https://github.com/xinshuoweng/AB3DMOT/blob/master/main1.gif">
-<img align="center" width="100%" src="https://github.com/xinshuoweng/AB3DMOT/blob/master/main2.gif">
+pip install --trusted-host pypi.org --trusted-host pypi.python.org --trusted-host files.pythonhosted.org --upgrade certifi
 
 ## Overview
 
